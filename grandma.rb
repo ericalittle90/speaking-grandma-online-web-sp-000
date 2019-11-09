@@ -6,6 +6,5 @@ elsif input == input.upcase
 elsif input == "I LOVE YOU GRANDMA!"
    "I LOVE YOU TOO PUMPKIN!"
 end
+end
 
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
